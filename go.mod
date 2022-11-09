@@ -1,4 +1,4 @@
-module github.com/asticode/go-astisrt
+module github.com/flavioribeiro/go-astisrt
 
 go 1.18
 
